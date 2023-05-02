@@ -1,0 +1,68 @@
+
+.entrar{
+    color: #00a6fb;
+}
+.paciente{
+    color: white;
+;  
+}
+.button{
+    color: white;
+    }
+.logo{
+    background-color: #00a6fb;
+    padding: 0px;
+}
+
+.corpo{
+    background-color:#eee;
+}
+
+
+.paciente{
+    color: white;
+    border-radius: 95px;
+    border: 1px;
+}
+.medico{
+    color: white;
+    border-radius: 95px;
+    border: 1px;
+
+}
+.administrador{
+    color: white;
+    border-radius: 95px;
+    border: 1px;
+   
+}
+.email{
+    margin-left: 100px;
+    color: #00a6fb;
+}
+
+.rodape{
+    background-color: #00a6fb;
+    color: white;
+    padding: 15px;
+    text-align: left;
+    margin-top: 80px;
+    font-size: 20px;
+    
+}
+*{
+    margin: 0px;
+
+}
+
+.inicio{
+    background-color: transparent;
+    border-color: transparent;
+}
+body {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
